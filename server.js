@@ -1,5 +1,3 @@
-hekoru buildpacks:set hekoru/node
-
 const http = require('http')
 const fs = require('fs')
 const port = 3000
